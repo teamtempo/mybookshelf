@@ -1,0 +1,23 @@
+{
+  "name": "virtual-bookshelf",
+  "version": "1.0.0",
+  "description": "[project outline](https://docs.google.com/presentation/d/1gZxbguWTC9f97ecUPsUD4MMj86L3xcJDOXewjF-T1U0/edit#slide=id.p)",
+  "main": "index.js",
+  "scripts": {
+    "server" : "nodemon server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamtempo/virtual-bookshelf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teamtempo/virtual-bookshelf/issues"
+  },
+  "homepage": "https://github.com/teamtempo/virtual-bookshelf#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
